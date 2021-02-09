@@ -1,48 +1,7 @@
 # PyTorch 中文手册（pytorch handbook）
-![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
-
-## 书籍介绍
-这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。
-
-由于本人水平有限，在写此教程的时候参考了一些网上的资料，在这里对他们表示敬意，我会在每个引用中附上原文地址，方便大家参考。
-
-深度学习的技术在飞速的发展，同时PyTorch也在不断更新，且本人会逐步完善相关内容。
-
-## 版本说明
-由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
-
+![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-
+logo-dark.png)
 [pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.7
-
-## QQ 5群 
-
-群号：894059877
-
-扫描二维码
-
-![QR](Pytorch-Handbook-5.png) 
-
-[点击链接加入群聊 『PyTorch Handbook 交流5群』](//jq.qq.com/?_wv=1027&k=HI1gtcVa)
-
-1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满 
-
-不要再加了
-
-## 新福利
-
-公众账号每日分享干货文章
-![weixin QR](deephub.jpg) 
-
-
-
-## 说明
-
-- 修改错别字请直接提issue或PR
-
-- PR时请注意版本
-
-- 有问题也请直接提issue
-
-感谢
 
 ## 目录
 
@@ -50,9 +9,10 @@
 
 1. [PyTorch 简介](chapter1/1.1-pytorch-introduction.md)
 2. [PyTorch 环境搭建](chapter1/1.2-pytorch-installation.md)
-3. [PyTorch 深度学习：60分钟快速入门（官方）](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
+3. [PyTorch 深度学习：60分钟快速入门（官方）](chapter1/1.3-deep-learning-with-
+pytorch-60-minute-blitz.md)
     - [张量](chapter1/1_tensor_tutorial.ipynb)
-    - [Autograd：自动求导](chapter1/2_autograd_tutorial.ipynb) 
+    - [Autograd：自动求导](chapter1/2_autograd_tutorial.ipynb)
     - [神经网络](chapter1/3_neural_networks_tutorial.ipynb)
     - [训练一个分类器](chapter1/4_cifar10_tutorial.ipynb)
     - [选读：数据并行处理（多GPU）](chapter1/5_data_parallel_tutorial.ipynb)
@@ -70,7 +30,8 @@
 
 #### 第三节 神经网络简介
 
-[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)  注：本章在本地使用微软的Edge打开会崩溃，请使Chrome Firefox打开查看
+[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
+注：本章在本地使用微软的Edge打开会崩溃，请使Chrome Firefox打开查看
 
 #### 第四节 卷积神经网络
 
@@ -103,7 +64,7 @@
 
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb) 
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
 
 [可视化理解卷积神经网络](chapter4/4.2.3-cnn-visualizing.ipynb)
 
@@ -145,4 +106,5 @@ pytorch的优化器总结
 
 ![](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
-[本作品采用知识共享署名-非商业性使用-相同方式共享 3.0  中国大陆许可协议进行许可](http://creativecommons.org/licenses/by-nc-sa/3.0/cn)
+[本作品采用知识共享署名-非商业性使用-相同方式共享 3.0
+中国大陆许可协议进行许可](http://creativecommons.org/licenses/by-nc-sa/3.0/cn)
